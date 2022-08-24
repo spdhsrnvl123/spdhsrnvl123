@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:black,100:a82da8&height=300&section=header&text=Leutbing&fontSize=90&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:black,100:a82da8&height=300&section=header&text=Leutbing&fontSize=90&fontColor=FBEAFF)
 
 <h3 align="center">🖐 Welcome 🖐</h3>
 
@@ -18,6 +18,7 @@
 
 <br />
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spdhsrnvl123&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdhsrnvl123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div dispaly="flex">
+    <img src = "https://github-readme-stats.vercel.app/api?username=spdhsrnvl123&show_icons=true&theme=radical" />
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=spdhsrnvl123&layout=compact&theme=radical" />
+</div>
