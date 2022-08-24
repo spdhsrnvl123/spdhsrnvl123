@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:black,100:a82da8&height=300&section=header&text=Leutbing&fontSize=90&fontColor=FBEAFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:black,100:a82da8&height=300&section=header&text=TaehyeongLEE&fontSize=90&fontColor=FBEAFF)
 
 <h3 align="center">🖐 Welcome 🖐</h3>
 
@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp <br />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
 </p>
-
-<h3 align="center"> 🌈 Follow Me 🌈 </h3>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
