@@ -18,7 +18,7 @@
 
 <br />
 
-<div text-align="center">
+<div align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=spdhsrnvl123&show_icons=true&theme=radical" />
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=spdhsrnvl123&layout=compact&theme=radical" />
 </div>
