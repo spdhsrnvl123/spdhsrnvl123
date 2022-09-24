@@ -9,12 +9,3 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp <br />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
 </p>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-
-<br />
-
-<div align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=spdhsrnvl123&show_icons=true&theme=radical" />
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=spdhsrnvl123&layout=compact&theme=radical" />
-</div>
