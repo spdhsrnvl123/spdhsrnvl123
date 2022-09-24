@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:black,100:a82da8&height=300&section=header&text=TaehyeongLEE&fontSize=90&fontColor=FBEAFF)
-
-<h3 align="center">🖐 Welcome 🖐</h3>
+<h2 align="center">🖐 Welcome 🖐</h2>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
@@ -18,7 +16,5 @@
 
 <div align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=spdhsrnvl123&show_icons=true&theme=radical" />
-    <br />
-    <br />
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=spdhsrnvl123&layout=compact&theme=radical" />
 </div>
