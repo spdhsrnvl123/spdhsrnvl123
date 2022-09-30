@@ -1,4 +1,6 @@
-<h1 align="center">🖐 Welcome 🖐</h3>
+<h1 align="center">🖐 Welcome 🖐</h1>
+
+<h1 align="center">🌟Writing a meaningful Commit Message from October 2022🌟</h1>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
