@@ -5,10 +5,6 @@ Hi! I'm Leutbing.👨‍💻
 
 I became very interested in interative UI development, so I am preparing for web development.🔥
 
-April 2023 I'm going to make the best web & app service!🌈
-
-Look forward to it!✨
-
 Thank you for coming here.🙏
 ```
 
@@ -25,8 +21,6 @@ Thank you for coming here.🙏
 
 <h3>📚Studying </h3>
 <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
