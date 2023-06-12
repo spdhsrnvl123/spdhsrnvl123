@@ -9,7 +9,7 @@ Thank you for coming here.
 ## 📚 블로그
 ### https://velog.io/@spdhsrnvl123
 
-<details>
+<!-- <details>
     
 <summary>블로그 정리 내용 </summary>
   
@@ -21,4 +21,4 @@ Thank you for coming here.
     
 </div> 
   
-</details>  
+</details>   -->
