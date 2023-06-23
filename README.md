@@ -25,7 +25,7 @@ Thank you for coming here.
 
 <details>
     
-<summary>블로그 React정리 내용 </summary>
+<summary>블로그 React 정리 내용 </summary>
   
 <div markdown="1">
 
@@ -39,13 +39,27 @@ Thank you for coming here.
 
 <details>
     
-<summary>블로그 Typescript정리 내용 </summary>
+<summary>블로그 Typescript 정리 내용 </summary>
   
 <div markdown="1">
 
 |일 자|구 분|내 용|주 소|
 |-----|----|-------|----|
 |2023.02.20|타입스크립트|타입스크립트 소개|[타입스크립트 소개](https://velog.io/@spdhsrnvl123/TypeScript-%EC%86%8C%EA%B0%9C)|
+|2023.06.23|타입스크립트|@types|[@types](https://velog.io/@spdhsrnvl123/types)|
+    
+</div> 
+  
+</details>
+
+<details>
+    
+<summary>블로그 Web 정리 내용 </summary>
+  
+<div markdown="1">
+
+|일 자|구 분|내 용|주 소|
+|-----|----|-------|----|
     
 </div> 
   
