@@ -11,6 +11,20 @@ Thank you for coming here.
 
 <details>
     
+<summary>블로그 Java 정리 내용 </summary>
+  
+<div markdown="1">
+
+|일 자|구 분|내 용|주 소|
+|-----|----|-------|----|
+|2023.07.06|Java|Java용어정리|[Java용어정리](https://velog.io/@spdhsrnvl123/JAVA-%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC)|
+    
+</div> 
+  
+</details>
+
+<details>
+    
 <summary>블로그 JS 정리 내용 </summary>
   
 <div markdown="1">
