@@ -18,7 +18,8 @@ Thank you for coming here.
 |일 자|구 분|내 용|주 소|
 |-----|----|-------|----|
 |2023.07.06|Java|Java용어정리|[Java용어정리](https://velog.io/@spdhsrnvl123/JAVA-%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC)|
-|2023.07.07|Java|JDK 설치|[JDK 설치](https://velog.io/@spdhsrnvl123/JDK-%EC%84%A4%EC%B9%98)|  
+|2023.07.07|Java|JDK 설치|[JDK 설치](https://velog.io/@spdhsrnvl123/JDK-%EC%84%A4%EC%B9%98)| 
+|2023.07.08|Java|Java 문자열 기초|[Java 문자열 기초](https://velog.io/@spdhsrnvl123/Java-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B8%B0%EC%B4%88)|  
 </div> 
   
 </details>
