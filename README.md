@@ -94,7 +94,7 @@ Thank you for coming here.
 
 |일 자|구 분|내 용|주 소|
 |-----|----|-------|----|
-    
+|2023.07.11|web|웹 서버 vs WAS|[웹 서버 vs WAS](https://velog.io/@spdhsrnvl123/%EC%9B%B9-%EC%84%9C%EB%B2%84-vs-WAS)|
 </div> 
   
 </details>
