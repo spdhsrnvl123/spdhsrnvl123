@@ -18,7 +18,7 @@ Thank you for coming here.
 |일 자|구 분|내 용|주 소|
 |-----|----|-------|----|
 |2023.07.09|Database|Database 기초 및 데이터 타입|[Database 기초 및 데이터 타입](https://velog.io/@spdhsrnvl123/Database-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85)|
-
+|2023.07.13|Database|DDL|[DDL](https://velog.io/@spdhsrnvl123/DDL)|
 
 </div> 
   
