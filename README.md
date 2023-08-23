@@ -1,7 +1,2 @@
 ## ✨ Welcome to Leutbing Github!!
-
-```
-Hi! I'm Leutbing.
-
-Thank you for coming here.
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdhsrnvl123&theme=github_dark&layout=compact&hide_border=true)](https://github.com/spdhsrnvl123)
