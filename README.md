@@ -5,3 +5,4 @@
 |일자|제목|내용|Link|
 |---|---|---|---|
 |24.10.01(수정)|JavaScript Basic|자바스크립트기초|https://velog.io/@spdhsrnvl123/javascriptbasic|
+|24.10.05(수정)|Array Method|배열 메서드|https://velog.io/@spdhsrnvl123/javascriptmethod|
