@@ -3,5 +3,3 @@
 - 💬 관심 분야: **JavaScript, TypeScript, React, Java, Spring boot, MySql, Linux**
 
 - 📫 연락처: **spdhsrnvl456@gmail.com**
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
