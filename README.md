@@ -6,31 +6,11 @@
 또한 반복 문의를 줄이기 위해 **클로드 AI를 활용한 FAQ 챗봇**을 직접 기획하고 개발했습니다.
 
 개발자의 시선으로 시스템을 이해하고, 운영자의 관점으로 안정성을 책임지는 **IT 엔지니어**입니다.
-<br/>
-
-### HISTORY
-
-| 기간 | 회사 | 역할 | 담당업무 |
-|------|------|------|----------|
-| 2025.04 ~ | (재)건설산업교육원 | 전산시스템운영 및 개발 | LMS 운영, 장애대응, 보안관리, FAQ 챗봇 개발 |
-| 2023.12 ~ 2024.04 | (주)나임네트웍스 | 프론트엔드개발 | 클라우드 솔루션 유지보수, 사내 투표 서비스 개발 |
-
-<br/>
-
-### PROJECTS
-
-| 프로젝트 | 소속 | 설명 | 링크 |
-|----------|------|------|------|
-| FAQ 챗봇 | (재)건설산업교육원 | FAQ 자동응답 서비스 (React, TypeScript) | [Demo](https://chatbot-taupe-two-95.vercel.app/) |
-| 오늘 점심은 뭐 먹지? | (주)나임네트웍스 | 점심 장소 투표 서비스 (Angular, Spring Boot) | [GitHub](https://github.com/spdhsrnvl123/TodayMeal-BE) |
-
-<br/>
 
 ### Tech Stack
 
 `HTML/CSS` `JavaScript` `TypeScript` `React` `Angular` `Linux`
 
-<br/>
 
 **Email**: spdhsrnvl456@gmail.com  
 **Blog**: https://goofipie.tistory.com/
