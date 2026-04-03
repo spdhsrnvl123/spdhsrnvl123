@@ -5,4 +5,4 @@
 ### Tech Stack
 `Claude Code` `HTML/CSS` `JavaScript` `TypeScript` `React` `Linux` `MySQL`
 
-**Email**: spdhsrnvl456@gmail.com
+**Email**: spdhsrnvl123@naver.com
