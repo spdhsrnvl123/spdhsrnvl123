@@ -1,7 +1,7 @@
-프론트엔드 개발과 Linux 기반 인프라 운영을 경험한 IT 엔지니어입니다. Angular 기반 웹 개발을 시작으로 백엔드 시스템 구조를 이해하며 서비스의 전체 생명주기를 경험했습니다. 현재 LMS 플랫폼 운영을 담당하며 웹/DB 서버 관리와 서비스 기획을 수행하고 있으며 생성형 AI를 활용한 FAQ 챗봇을 기획·개발하여 서비스에 도입했습니다.
+### AI로 문제를 해결하고 직접 만드는 엔지니어
+현업에서 반복 문의 문제를 발견하고, AI FAQ 챗봇을 직접 기획·개발하여 실서비스에 도입한 엔지니어입니다. 1인으로 SaaS 플랫폼까지 확장했고, 일 문의 50% 감소·연간 700만원 비용 절감을 달성했습니다.
 
 ### Tech Stack
 `Claude Code` `HTML/CSS` `JavaScript` `TypeScript` `React` `Linux` `MySQL`
 
-**Email**: spdhsrnvl456@gmail.com  
-**Blog**: https://goofipie.tistory.com/
+**Email**: spdhsrnvl456@gmail.com
