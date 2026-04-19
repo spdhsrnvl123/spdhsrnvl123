@@ -9,7 +9,6 @@
 
 - 서비스 소개: https://goofitalk.co.kr
 - 실서비스 (건설산업교육원): https://kcie.goofitalk.co.kr
-- GitHub: https://github.com/spdhsrnvl123/Goofi-Talk
-- 기술 블로그: https://goofipie.tistory.com
 
-spdhsrnvl456@gmail.com
+기술 블로그: https://goofipie.tistory.com <br />
+이메일: spdhsrnvl456@gmail.com
