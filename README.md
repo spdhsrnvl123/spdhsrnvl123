@@ -3,11 +3,13 @@
 현업에서 반복 문의 문제를 발견하고, AI FAQ 챗봇을 직접 기획·개발하여 실서비스에 도입했습니다.
 1인으로 멀티테넌트 플랫폼까지 확장했고, 일 문의 50% 감소·연간 700만 원 비용 절감을 달성했습니다.
 
-### Tech Stack
-`React` `TypeScript` `Zustand` `TanStack Query` `Tailwind CSS` `Supabase` `Claude API` `Claude Code` `MySQL` `Linux` `NGINX`
+### Project — Goofi Talk
 
-### Project
-🔗 [Goofi Talk](https://goofitalk.co.kr) — 멀티테넌트 AI FAQ 챗봇
-📝 [기술 블로그](https://goofipie.tistory.com)
+멀티테넌트 AI FAQ 챗봇 | 1인 기획·개발·배포·운영
 
-Email: spdhsrnvl456@gmail.com
+- 서비스 소개: https://goofitalk.co.kr
+- 실서비스 (건설산업교육원): https://kcie.goofitalk.co.kr
+- GitHub: https://github.com/spdhsrnvl123/Goofi-Talk
+- 기술 블로그: https://goofipie.tistory.com
+
+spdhsrnvl456@gmail.com
