@@ -8,7 +8,7 @@
 멀티테넌트 AI FAQ 챗봇 | 1인 기획·개발·배포·운영 | 건설산업교육원 실서비스 도입
 
 - 서비스 소개: https://goofitalk.co.kr
-- 건설산업교육원 도입: https://con.or.kr/
+- 건설산업교육원 도입: https://con.or.kr
 
 기술 블로그: https://goofipie.tistory.com <br />
 이메일: spdhsrnvl456@gmail.com
