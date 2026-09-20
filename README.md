@@ -7,3 +7,11 @@
 지금은 혼자서 **운영 중인 LMS·홈페이지 유지보수**와 **신규 프로젝트**를 함께 진행하고 있습니다. 
 
 AI에게 일을 시키기 전에 **AI가 일할 환경을 먼저 설계**하는 **하네스 엔지니어링(Harness Engineering)** 방식으로 일합니다.
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=spdhsrnvl123&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/spdhsrnvl123"
+  width="600"
+  height="300"
+/>
+</a>
