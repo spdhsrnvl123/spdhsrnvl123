@@ -8,10 +8,11 @@
 
 AI에게 일을 시키기 전에 **AI가 일할 환경을 먼저 설계**하는 **하네스 엔지니어링(Harness Engineering)** 방식으로 일합니다.
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=spdhsrnvl123&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/spdhsrnvl123"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=spdhsrnvl123&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/spdhsrnvl123"
+    width="300"
+    height="120"
+  />
 </a>
+  
